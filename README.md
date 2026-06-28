@@ -92,7 +92,7 @@ This project demonstrates a complete accounting system developed using **Tally P
 
 **File:** `Purchase_Voucher_Vivo_Wholesale Pvt Ltd.png`
 
-![Purchase Voucher Vivo](Purchase_Voucher_Vivo_Wholesale_Pvt_Ltd.png)
+![Purchase Voucher Vivo](Purchase_Voucher_Vivo_Wholesale Pvt Ltd.png)
 
 ---
 
