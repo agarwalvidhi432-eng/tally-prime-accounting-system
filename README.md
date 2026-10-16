@@ -19,8 +19,10 @@ This project demonstrates a complete accounting system developed using **Tally P
 * Stock Summary
 * Outstanding Debtors
 * Outstanding Creditors
+* Trial Balance
 * Profit and Loss Account
 * Balance Sheet
+ 
 
 ---
 
