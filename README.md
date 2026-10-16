@@ -161,6 +161,9 @@ This project demonstrates a complete accounting system developed using **Tally P
 ![Outstanding Creditors](Outstanding_Creditors.png)
 
 ---
+## Trial Balance
+
+![Trial Balance](Trial_Balance.png)
 
 ## Profit and Loss Account
 
